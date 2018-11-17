@@ -1,98 +1,68 @@
 var friendsArray= [
     {
         "name": "Eric Forman",
-        "photo": "https://goo.gl/images/IW0z7v",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/0/01/EricForman.jpg",
         "scores": [
             5,
+            3,
+            3,
             1,
             4,
-            4,
-            5,
-            1,
-            2,
-            5,
-            4,
-            1
         ]
     },
     {
         "name": "Steven Hyde",
-        "photo": "https://goo.gl/images/FRgTAs",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/b/b1/Danny_Masterson_as_Steven_Hyde.png",
         "scores": [
+            3,
             5,
-            1,
-            4,
-            4,
-            5,
-            1,
             2,
+            3,
             5,
-            4,
-            1
         ]
     },
     {
         "name": "Fez",
-        "photo": "https://goo.gl/images/b7EgPk",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/d/dc/Fez_%28That_%2770s_Show%29.jpg",
         "scores": [
-            5,
-            1,
-            4,
-            4,
-            5,
-            1,
+            3,
             2,
-            5,
-            4,
-            1
+            2,
+            2,
+            2,
         ]
     },
     {
         "name": "Jackie Burkhart",
-        "photo": "https://goo.gl/images/6iEKBB",
+        "photo": "https://vignette.wikia.nocookie.net/that70sshow/images/8/8b/Images_%285%29.jpg/revision/latest?cb=20160314035714",
         "scores": [
-            5,
+            1,
+            1,
             1,
             4,
-            4,
-            5,
             1,
-            2,
-            5,
-            4,
-            1
         ]
     },
     {
         "name": "Michael Kelso",
-        "photo": "https://goo.gl/images/92w6zw",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/52/MichaelKelsoFinale.jpg",
         "scores": [
-            5,
+            4,
+            4,
             1,
             4,
             4,
-            5,
-            1,
-            2,
-            5,
-            4,
-            1
         ]
     },
     {
         "name": "Donna Pinciotti",
-        "photo": "https://goo.gl/images/xBiK6w",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/9/95/Donna_Pinciotti.jpg",
         "scores": [
-            5,
-            1,
             4,
             4,
             5,
-            1,
+            5,
             2,
-            5,
-            4,
-            1
         ]
     },
 
