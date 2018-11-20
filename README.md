@@ -1,1 +1,5 @@
-# FriendFinder
+# That 70's Friend Finder
+<h2>What does this app do?</h2>
+<p>This app is designed to find potential friends from the user pool once they take the short compatability quiz. The user pool is preloaded with characters from the television show "That 70's Show" to provide a good mix of varied personalities for the initial user to match with and learn how the app works.</p>
+<h2>How are user matched?</h2>
+<p>Once the user completes the compatability quiz, their scores are compared against those already in the user pool. For each question, a score difference is logged, with a perfect match resulting in a 0. The user with the lowest total score difference accross all questions is determined to be the closest match. A pop up will display showing the name and profile photo of your closest match as soon as your quiz results are submitted.</p>
